@@ -1,0 +1,21 @@
+{
+  "name": "test_project",
+  "version": "1.0.0",
+  "author": "Nick Daniele",
+  "license": "ISC",
+  "description": "This is a test application for converting from requirejs to webpack.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo This is my npm test command.",
+    "server": "python -m SimpleHTTPServer"
+  },
+  "dependencies": {
+    "backbone": "^1.3.3",
+    "backbone.marionette": "^3.5.1",
+    "backbone.radio": "^2.0.0",
+    "jquery": "^3.3.1",
+    "requirejs": "^2.3.5",
+    "requirejs-text": "^2.0.15",
+    "underscore": "1.8.3"
+  }
+}
