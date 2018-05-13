@@ -1,4 +1,3 @@
-/* eslint-disable */
 define(function(require) {
 	'use strict';
 
