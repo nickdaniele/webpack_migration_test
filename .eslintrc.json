@@ -1,0 +1,8 @@
+{
+	"extends": "eslint:recommended",
+	"globals": {
+		"define": true,
+		"requirejs": true,
+		"_": true
+	}
+}
