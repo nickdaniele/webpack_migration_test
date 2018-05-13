@@ -1,5 +1,3 @@
-/* eslint-disable */
-
 requirejs.config({
 	paths: {
 		text: 'node_modules/requirejs-text/text',
@@ -11,4 +9,4 @@ requirejs.config({
 	}
 });
 
-requirejs(['js/app']);
+requirejs(['public/app']);
